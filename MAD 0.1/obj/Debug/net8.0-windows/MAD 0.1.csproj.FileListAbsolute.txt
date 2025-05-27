@@ -1,0 +1,126 @@
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.exe
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.deps.json
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.runtimeconfig.json
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.dll
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.pdb
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.csproj.GenerateResource.cache
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.AssemblyInfoInputs.cache
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.AssemblyInfo.cs
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.csproj.CoreCompileInputs.cache
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.dll
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\refint\MAD 0.1.dll
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.pdb
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.genruntimeconfig.cache
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\ref\MAD 0.1.dll
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Nuevo_Login.resources
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Properties.Resources.resources
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Recuperar_cuenta.resources
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.RegistroUsuario.resources
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Menu.resources
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Perfil_Usuario.resources
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Consultas.resources
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.dll.config
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.csproj.AssemblyReference.cache
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.csproj.Up2Date
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Buscar.resources
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Favoritos.resources
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Historial.resources
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Editar_Perfil.resources
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Mensaje.resources
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.MensajePregunta.resources
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+E:\MAD PROYECTO\MAD 0.1\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.csproj.ResolveComReference.cache
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.dll
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\refint\MAD 0.1.dll
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.pdb
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.csproj.AssemblyReference.cache
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.csproj.ResolveComReference.cache
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.exe
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.dll.config
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.deps.json
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.runtimeconfig.json
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.dll
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.pdb
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Buscar.resources
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Consultas.resources
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Editar_Perfil.resources
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Favoritos.resources
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Historial.resources
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Nuevo_Login.resources
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Mensaje.resources
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.MensajePregunta.resources
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Menu.resources
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Perfil_Usuario.resources
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Properties.Resources.resources
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Recuperar_cuenta.resources
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.RegistroUsuario.resources
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.csproj.GenerateResource.cache
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.AssemblyInfoInputs.cache
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.AssemblyInfo.cs
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.csproj.CopyComplete
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.genruntimeconfig.cache
+C:\Users\Sebastian Rubio\OneDrive\Documentos\MAD-53-1962531-JEFF-2127340-SARV\MAD-53-1962531-JEFF-2127340-SARV\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\ref\MAD 0.1.dll
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.exe
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.dll.config
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.deps.json
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.runtimeconfig.json
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.dll
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\MAD 0.1.pdb
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.csproj.AssemblyReference.cache
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.csproj.ResolveComReference.cache
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Buscar.resources
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Consultas.resources
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Editar_Perfil.resources
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Favoritos.resources
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Historial.resources
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Nuevo_Login.resources
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Mensaje.resources
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.MensajePregunta.resources
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Menu.resources
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Perfil_Usuario.resources
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Properties.Resources.resources
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.Recuperar_cuenta.resources
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD_0._1.RegistroUsuario.resources
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.csproj.GenerateResource.cache
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.AssemblyInfoInputs.cache
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.AssemblyInfo.cs
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.csproj.CoreCompileInputs.cache
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.csproj.Up2Date
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.dll
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\refint\MAD 0.1.dll
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.pdb
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\MAD 0.1.genruntimeconfig.cache
+E:\Downloads\MAD final\MAD PROGRAMA\MAD 0.1\obj\Debug\net8.0-windows\ref\MAD 0.1.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Downloads\\MAD final\\MAD PROGRAMA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B16B02B-60F9-4E3E-B75E-25F5EE8B89F3}|MAD 0.1\\MAD 0.1.csproj|e:\\downloads\\mad final\\mad programa\\mad 0.1\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B16B02B-60F9-4E3E-B75E-25F5EE8B89F3}|MAD 0.1\\MAD 0.1.csproj|solutionrelative:mad 0.1\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B16B02B-60F9-4E3E-B75E-25F5EE8B89F3}|MAD 0.1\\MAD 0.1.csproj|e:\\downloads\\mad final\\mad programa\\mad 0.1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B16B02B-60F9-4E3E-B75E-25F5EE8B89F3}|MAD 0.1\\MAD 0.1.csproj|solutionrelative:mad 0.1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B16B02B-60F9-4E3E-B75E-25F5EE8B89F3}|MAD 0.1\\MAD 0.1.csproj|e:\\downloads\\mad final\\mad programa\\mad 0.1\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B16B02B-60F9-4E3E-B75E-25F5EE8B89F3}|MAD 0.1\\MAD 0.1.csproj|solutionrelative:mad 0.1\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Consultas.cs",
+              "DocumentMoniker": "E:\\Downloads\\MAD final\\MAD PROGRAMA\\MAD 0.1\\Consultas.cs",
+              "RelativeDocumentMoniker": "MAD 0.1\\Consultas.cs",
+              "ToolTip": "E:\\Downloads\\MAD final\\MAD PROGRAMA\\MAD 0.1\\Consultas.cs",
+              "RelativeToolTip": "MAD 0.1\\Consultas.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:24:25.41Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "E:\\Downloads\\MAD final\\MAD PROGRAMA\\MAD 0.1\\Menu.cs",
+              "RelativeDocumentMoniker": "MAD 0.1\\Menu.cs",
+              "ToolTip": "E:\\Downloads\\MAD final\\MAD PROGRAMA\\MAD 0.1\\Menu.cs",
+              "RelativeToolTip": "MAD 0.1\\Menu.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA8wCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:25:45.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consultas.cs [Design]",
+              "DocumentMoniker": "E:\\Downloads\\MAD final\\MAD PROGRAMA\\MAD 0.1\\Consultas.cs",
+              "RelativeDocumentMoniker": "MAD 0.1\\Consultas.cs",
+              "ToolTip": "E:\\Downloads\\MAD final\\MAD PROGRAMA\\MAD 0.1\\Consultas.cs [Design]",
+              "RelativeToolTip": "MAD 0.1\\Consultas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:24:19.949Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
